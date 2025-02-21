@@ -8,11 +8,11 @@ p::first-line{
 }
 
 #fruit li::before{
-    content: "👺";
+    content: "*";
 }
 
 #apple::after{
-    content: "👺";
+    content: "*";
 }
 
 

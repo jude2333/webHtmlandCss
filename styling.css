@@ -1,0 +1,10 @@
+body{
+    background-color : white;
+}
+
+.odd{
+    color: green;
+}
+.even{
+    color: red;
+}

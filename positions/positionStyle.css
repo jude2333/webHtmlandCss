@@ -1,0 +1,21 @@
+.box1{
+
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    position: fixed ;
+
+}
+
+.box2{
+
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    position:fixed;
+
+}
+
+
+
+

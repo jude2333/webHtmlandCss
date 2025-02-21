@@ -1,0 +1,9 @@
+body{
+    border: 2px solid;
+    padding: 5px;
+}
+
+#img1{
+    float: left;
+    margin-right: 10px;
+}

@@ -1,0 +1,23 @@
+h1::first-letter{
+    font-size: 60px;
+    background-color: aqua;
+}
+
+p::first-line{
+    background-color: yellow;
+}
+
+#fruit li::before{
+    content: "👺";
+}
+
+#apple::after{
+    content: "👺";
+}
+
+
+
+
+
+
+

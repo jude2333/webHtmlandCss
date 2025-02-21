@@ -1,0 +1,21 @@
+/* Block-level div */
+.block-div {
+    background-color: lightblue;
+    padding: 10px;
+    display: block; /* This is the default for div, so it's optional */
+}
+
+/* Inline-level span */
+.inline-span {
+    background-color: lightgreen;
+    padding: 10px;
+    display: inline; /* This is the default for span, so it's optional */
+}
+
+/* Inline-block div */
+.inline-block-div {
+    background-color: lightcoral;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
